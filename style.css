@@ -91,6 +91,9 @@ body {
 
 .orla {
     transition: transform 0.3s ease;
+    border: 25px;
+    border-style: ridge;
+    border-color: rgb(13, 112, 194);
 }
 
 .orla:hover {
