@@ -88,3 +88,11 @@ body {
 .portada_bitacora:hover {
     transform: rotate(-10deg);
 }
+
+.orla {
+    transition: transform 0.3s ease;
+}
+
+.orla:hover {
+    transform: scale(1.1);
+}
