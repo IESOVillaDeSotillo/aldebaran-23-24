@@ -80,6 +80,9 @@ body {
 }
 
 .portada_bitacora {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     rotate: -5deg;
     transition: transform 0.3s ease;
     transform-origin: center;
